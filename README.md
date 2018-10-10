@@ -1,5 +1,5 @@
 # MagFit
-Re-creation of the web app Fitrack with added functionalities **currently in development**.
+Recreation of the web app Fitrack with added functionalities **currently in development**.
 # Added Functionalities:
   - Workout graphing to track progress visually.
   - Incorporate cardio into resistance training.
